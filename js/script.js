@@ -554,6 +554,7 @@ const WISH_MESSAGES = [
 	"Mong mọi điều tốt đẹp sẽ đến với em năm 2026",
 	"Chúc em luôn xinh đẹp và rạng ngời",
 	"Với trái tim ấm áp, anh chúc em năm mới vui vẻ, thành công",
+	"BẤM VÀO BẤT KÌ CHỖ NÀO ĐỂ NGHE TIẾNG PHÁO NHÉ :))",
 	
 ];
 
